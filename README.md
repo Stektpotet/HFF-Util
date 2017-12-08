@@ -21,7 +21,7 @@ Click the `Clone or Download` button and extract the asset files into your mod w
 
 ## Features
 
-It's currently very limited, but due time, I'm sure It'll grow into something bigger.
+It's currently very limited, but in due time, I'm sure It'll grow into something bigger.
 
 For now, here's a feature list:
 
