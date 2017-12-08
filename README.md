@@ -13,7 +13,7 @@ This Repository is a collection of tools built ontop of the Human API provided b
 This will add these files into your local workdir as a submodule, rather than beeing part of your own repo
 (https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
-### Otherwise
+#### Otherwise
 
 Click the `Clone or Download` button and extract the asset files into your mod work directory
 
@@ -32,6 +32,6 @@ For now, here's a feature list:
 
 ---
 
-### Feel free to contribute!
+#### Feel free to contribute!
 
 -Stektpotet
