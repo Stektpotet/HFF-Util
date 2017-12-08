@@ -1,3 +1,12 @@
+# Specific rules for this toolset.
+!/[Aa]ssets/[Ll]evels/*
+!/[Aa]ssets/[Pp]refabs/*
+!/[Aa]ssets/[Tt]ools/*
+!/[Aa]ssets/[Mm]odels/*
+!/[Aa]ssets/[Mm]aterials/*
+!/[Aa]ssets/[Tt]extures/*
+
+# Standard Unity-gitignore from this point...
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
