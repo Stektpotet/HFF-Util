@@ -8,10 +8,7 @@ This Repository is a collection of tools built ontop of the Human API provided b
 
 #### If using Git
 
-`git submodule add https://github.com/stektpotet/HFF-Util `
-
-This will add these files into your local workdir as a submodule, rather than beeing part of your own repo
-(https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+`git subtree add --prefix=Assets/HFF-Util https://github.com/stektpotet/HFF-Util.git master --squash`
 
 #### Otherwise
 
