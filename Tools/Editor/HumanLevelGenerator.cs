@@ -37,7 +37,7 @@ public static class HumanLevelGenerator
         levelPassTrigger.Translate(5, 0, 0);
         levelPassTrigger.parent = level;
 
-        var levelPassTriggerCollider = fallTrigger.gameObject.AddComponent<BoxCollider>();
+        var levelPassTriggerCollider = levelPassTrigger.gameObject.AddComponent<BoxCollider>();
         levelPassTriggerCollider.size = new Vector3(60, 20, 60);
         levelPassTriggerCollider.isTrigger = true;
 
